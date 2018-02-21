@@ -1,0 +1,8 @@
+{
+  "name": "ionic2-ionic3-learning",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
